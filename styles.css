@@ -1,7 +1,15 @@
 img {
-    width: 200px;
+    width: 200px
+
 }
 body{
+    background-color: brown;
     text-align: center;
     font-family: "Comic Sans";
+    font-style: italic;
+    color: dark grey;
+
 }
+    
+   
+
